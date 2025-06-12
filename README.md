@@ -25,43 +25,9 @@ Welcome to our group's two-part QA Automation project. This project demonstrates
 
 ---
 
-## 🧱 Project Structure
+## 🌐 Live Demo
 
-Project Folder/  
-├── 01_Documentation  
-├── 02_Front_end_Testing  
-│   ├── Tatsiana Lentz  
-│   ├── Milana Binaminova    
-│   ├── Sergiy Borovich      
-│   ├── Viktor Pervushkin     
-│   ├── Assiya Beribassova    
-│   ├── Lina Gorelik   
-│   ├── Daria Bataeva  
-│   └── Anton Buyanovski           
-├── 03_Performance_testing  
-│ ├── GTmetrix  
-│ ├── Lighthouse     
-│ └── SpeedLab         
-├── 04_Security_testing  
-│ ├── HTTP Observatory  
-│ ├── Astra  
-│ └── Other Security Testing Tools  
-├── 05_API_Testing  
-│ ├── data/ # Sample payloads or config  
-│ ├── pages/ # Page Object Model classes  
-│ └── utils/ # Helpers   
-├── 06_Bug_Reports  
-│   ├── Tatsiana Lentz  
-│   ├── Milana Binaminova  
-│   ├── Sergiy Borovich      
-│   ├── Viktor Pervushkin     
-│   ├── Assiya Beribassova    
-│   ├── Lina Gorelik   
-│   ├── Daria Bataeva  
-│   └── Anton Buyanovski           
-└── README.md # You're here!  
-
-
+Check out the [📄 QA Project Structure Page](https://serinegit.github.io/Apple-and-X-AI-testing-project/)!
 
 
 
