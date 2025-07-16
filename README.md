@@ -9,7 +9,11 @@ Welcome to our group's two-part QA Automation project. This project demonstrates
 
 ---
 
-## 🚀 Project Overview
+## 🌐 Interactive Project Architecture
+
+Discover our interactive project architecture through this link:  
+👉[![Explore Now](https://img.shields.io/badge/Explore-Interactive%20Menu-blue?style=for-the-badge&logo=github)](https://serinegit.github.io/Demo-Menu/)
+
 
 ### 🔹 Part 1: Frontend UI Testing – `apple.com`
 
@@ -28,39 +32,6 @@ Welcome to our group's two-part QA Automation project. This project demonstrates
 
 ## 🧱 Project Structure
 
-Project Folder/  
-├── 01_Documentation  
-├── 02_Front_end_Testing  
-│   ├── Tatsiana Lentz  
-│   ├── Milana Binaminova    
-│   ├── Sergiy Borovich      
-│   ├── Viktor Pervushkin     
-│   ├── Assiya Beribassova    
-│   ├── Lina Gorelik   
-│   ├── Daria Bataeva  
-│   └── Anton Buyanovski           
-├── 03_Performance_testing  
-│ ├── GTmetrix  
-│ ├── Lighthouse     
-│ └── SpeedLab         
-├── 04_Security_testing  
-│ ├── HTTP Observatory  
-│ ├── Astra  
-│ └── Other Security Testing Tools  
-├── 05_API_Testing  
-│ ├── data/ # Sample payloads or config  
-│ ├── pages/ # Page Object Model classes  
-│ └── utils/ # Helpers   
-├── 06_Bug_Reports  
-│   ├── Tatsiana Lentz  
-│   ├── Milana Binaminova  
-│   ├── Sergiy Borovich      
-│   ├── Viktor Pervushkin     
-│   ├── Assiya Beribassova    
-│   ├── Lina Gorelik   
-│   ├── Daria Bataeva  
-│   └── Anton Buyanovski           
-└── README.md # You're here!  
 
 
 
@@ -80,18 +51,7 @@ Project Folder/
 
 
 ## 👥 Team
-| Name                          | Link                                   | 
-|-------------------------------|----------------------------------------|
-| Sergey Efremov (Project Lead) | https://www.linkedin.com/in/sefremoff  |
-| Tatsiana Lentz (QA Lead )     | www.linkedin.com/in/tatsianalentz      |
-| Milana Binaminova             | www.linkedin.com/in/milana-binaminova  |
-| Sergiy Borovich               | www.linkedin.com/in/sergiy-borovich    |
-| Viktor Pervushkin             | www.linkedin.com/in/viktp              |
-| Assiya Beribassova            | www.linkedin.com/in/assiya-beribassova |
-| Lina Gorelik                  | www.linkedin.com/in/lina-gorelik       |
-| Daria Bataeva                 | www.linkedin.com/in/daria-bataeva      |
-| Serine Zargaryan              | https://www.linkedin.com/in/serinezargaryan/ |
-| Anton Buyanovski              | www.linkedin.com/in/antonb-qa          |
+
 
 
 
