@@ -50,15 +50,24 @@ Discover our interactive project architecture through this link:
 
 ## 👥 Team
 
-<details>
-  <summary>🛰 View Interactive Project Structure</summary>
+<table>
+  <tr>
+    <td colspan="2">Первая строка, 2 клетки</td>
+  </tr>
+  <tr>
+    <td>Вторая строка, ячейка 1</td>
+    <td>Вторая строка, ячейка 2</td>
+    <td>Вторая строка, ячейка 3</td>
+    <td>Вторая строка, ячейка 4</td>
+  </tr>
+  <tr>
+    <td>Третья строка, ячейка 1</td>
+    <td>Третья строка, ячейка 2</td>
+    <td>Третья строка, ячейка 3</td>
+    <td>Третья строка, ячейка 4</td>
+  </tr>
+</table>
 
-  <p align="center">
-    <img src="images/project-banner.png" width="600" alt="Project Structure"/>
-  </p>
-
-  🔗 [Click here to open](https://serinegit.github.io/Demo-Menu/)
-</details>
 
 
 
