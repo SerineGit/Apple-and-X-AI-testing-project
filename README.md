@@ -50,6 +50,15 @@ Discover our interactive project architecture through this link:
 
 ## 👥 Team
 
+<details>
+  <summary>🛰 View Interactive Project Structure</summary>
+
+  <p align="center">
+    <img src="images/project-banner.png" width="600" alt="Project Structure"/>
+  </p>
+
+  🔗 [Click here to open](https://serinegit.github.io/Demo-Menu/)
+</details>
 
 
 
