@@ -52,22 +52,78 @@ Discover our interactive project architecture through this link:
 
 <table>
   <tr>
-     <td>Вторая строка, ячейка 1</td>
-    <td>Вторая строка, ячейка 2</td>
+    <td colspan="2">Первая строка, 2 клетки</td>
   </tr>
   <tr>
-    <td>Вторая строка, ячейка 1</td>
-    <td>Вторая строка, ячейка 2</td>
-    <td>Вторая строка, ячейка 3</td>
-    <td>Вторая строка, ячейка 4</td>
+    <td><details>
+  <summary>Click to expand</summary>
+
+  Hidden content goes here.  
+  You can write **Markdown** _inside_ the block!
+
+</details>
+1</td>
+    <td><details>
+  <summary>Click to expand</summary>
+
+  Hidden content goes here.  
+  You can write **Markdown** _inside_ the block!
+
+</details>
+ 2</td>
+    <td><details>
+  <summary>Click to expand</summary>
+
+  Hidden content goes here.  
+  You can write **Markdown** _inside_ the block!
+
+</details>
+ 3</td>
+    <td><details>
+  <summary>Click to expand</summary>
+
+  Hidden content goes here.  
+  You can write **Markdown** _inside_ the block!
+
+</details>
+ 4</td>
   </tr>
   <tr>
-    <td>Третья строка, ячейка 1</td>
-    <td>Третья строка, ячейка 2</td>
-    <td>Третья строка, ячейка 3</td>
-    <td>Третья строка, ячейка 4</td>
+    <td><details>
+  <summary>Click to expand</summary>
+
+  Hidden content goes here.  
+  You can write **Markdown** _inside_ the block!
+
+</details>
+ 1</td>
+    <td><details>
+  <summary>Click to expand</summary>
+
+  Hidden content goes here.  
+  You can write **Markdown** _inside_ the block!
+
+</details>
+ 2</td>
+    <td><details>
+  <summary>Click to expand</summary>
+
+  Hidden content goes here.  
+  You can write **Markdown** _inside_ the block!
+
+</details>
+ 3</td>
+    <td><details>
+  <summary>Click to expand</summary>
+
+  Hidden content goes here.  
+  You can write **Markdown** _inside_ the block!
+
+</details>
+ 4</td>
   </tr>
 </table>
+
 
 
 
