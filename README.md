@@ -1,6 +1,9 @@
 # Apple-and-X-AI-testing-project
 
-![Main pic](https://github.com/SerineGit/Demo-Menu/blob/main/main.gif.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SerineGit/Demo-Menu/refs/heads/main/main.gif.gif" alt="Project Banner" width="800"/>
+</p>
+
 
 # 🧪 QA Automation Project: Frontend & API Testing
 
