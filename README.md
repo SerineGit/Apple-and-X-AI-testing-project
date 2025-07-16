@@ -50,81 +50,28 @@ Discover our interactive project architecture through this link:
 
 ## 👥 Team
 
-<table>
+
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td colspan="2">Первая строка, 2 клетки</td>
+    <td colspan="2" style="border: 1px solid #ddd; padding: 8px; text-align: center;">
+      Первая строка, 2 клетки (объединённые)
+    </td>
+    <td style="border: 1px solid #ddd;"></td>  <!-- пустая ячейка, чтобы 4 колонки в строке -->
+    <td style="border: 1px solid #ddd;"></td>  <!-- пустая ячейка -->
   </tr>
   <tr>
-    <td><details>
-  <summary>Click to expand</summary>
-
-  Hidden content goes here.  
-  You can write **Markdown** _inside_ the block!
-
-</details>
-1</td>
-    <td><details>
-  <summary>Click to expand</summary>
-
-  Hidden content goes here.  
-  You can write **Markdown** _inside_ the block!
-
-</details>
- 2</td>
-    <td><details>
-  <summary>Click to expand</summary>
-
-  Hidden content goes here.  
-  You can write **Markdown** _inside_ the block!
-
-</details>
- 3</td>
-    <td><details>
-  <summary>Click to expand</summary>
-
-  Hidden content goes here.  
-  You can write **Markdown** _inside_ the block!
-
-</details>
- 4</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Вторая строка, ячейка 1</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Вторая строка, ячейка 2</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Вторая строка, ячейка 3</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Вторая строка, ячейка 4</td>
   </tr>
   <tr>
-    <td><details>
-  <summary>Click to expand</summary>
-
-  Hidden content goes here.  
-  You can write **Markdown** _inside_ the block!
-
-</details>
- 1</td>
-    <td><details>
-  <summary>Click to expand</summary>
-
-  Hidden content goes here.  
-  You can write **Markdown** _inside_ the block!
-
-</details>
- 2</td>
-    <td><details>
-  <summary>Click to expand</summary>
-
-  Hidden content goes here.  
-  You can write **Markdown** _inside_ the block!
-
-</details>
- 3</td>
-    <td><details>
-  <summary>Click to expand</summary>
-
-  Hidden content goes here.  
-  You can write **Markdown** _inside_ the block!
-
-</details>
- 4</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Третья строка, ячейка 1</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Третья строка, ячейка 2</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Третья строка, ячейка 3</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Третья строка, ячейка 4</td>
   </tr>
 </table>
-
-
 
 
 
