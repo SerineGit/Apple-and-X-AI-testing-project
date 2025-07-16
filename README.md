@@ -50,7 +50,7 @@ Discover our interactive project architecture through this link:
 
 ## 👥 Team
 
-
+<div align="center">
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td colspan="2" style="border: 1px solid #ddd; padding: 8px; text-align: center;">
@@ -70,7 +70,8 @@ Discover our interactive project architecture through this link:
     <td style="border: 1px solid #ddd; padding: 8px;">Третья строка, ячейка 3</td>
     <td style="border: 1px solid #ddd; padding: 8px;">Третья строка, ячейка 4</td>
   </tr>
-</table>
+</table> 
+</div>
 
 
 
