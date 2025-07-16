@@ -59,7 +59,7 @@ Discover our interactive project architecture through this link:
 
   <p align="center">
     <a href="https://www.linkedin.com/in/sefremoff/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/SerineGit/Demo-Menu/refs/heads/main/Sergey%20E_ID.png" alt="ID Card" width="300" />
+      <img src="https://raw.githubusercontent.com/SerineGit/Demo-Menu/refs/heads/main/Sergey%20E_ID.png" alt="ID Card" width="400" />
     </a>
   </p>
 
@@ -69,7 +69,7 @@ Discover our interactive project architecture through this link:
 
   <p align="center">
     <a href="https://www.linkedin.com/in/sefremoff/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/SerineGit/Demo-Menu/refs/heads/main/Sergey%20E_ID2.png" alt="ID Card" width="400" />
+      <img src="https://raw.githubusercontent.com/SerineGit/Demo-Menu/refs/heads/main/Sergey%20E_ID2.png" alt="ID Card" width="500" />
     </a>
   </p>
 
