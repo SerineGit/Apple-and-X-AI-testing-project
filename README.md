@@ -12,7 +12,8 @@ Welcome to our group's two-part QA Automation project. This project demonstrates
 ## 🌐 Interactive Project Architecture
 
 Discover our interactive project architecture through this link:  
-👉[![Explore Now](https://img.shields.io/badge/Explore-Interactive%20Menu-blue?style=for-the-badge&logo=github)](https://serinegit.github.io/Demo-Menu/)
+👉 [serinegit.github.io/Demo-Menu](https://serinegit.github.io/Demo-Menu/)
+
 
 
 ### 🔹 Part 1: Frontend UI Testing – `apple.com`
