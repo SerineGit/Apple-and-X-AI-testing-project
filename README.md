@@ -51,25 +51,32 @@ Discover our interactive project architecture through this link:
 ## 👥 Team
 
 <div align="center">
-      <details>
+     
+  <table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 8px;">  <details>
   <summary>Click to view the ID Card</summary>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/sefremoff/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/SerineGit/Demo-Menu/refs/heads/main/Sergey%20E_ID.png" alt="ID Card" width="200" />
+      <img src="https://raw.githubusercontent.com/SerineGit/Demo-Menu/refs/heads/main/Sergey%20E_ID.png" alt="ID Card" width="300" />
     </a>
   </p>
 
-</details>         <details>
+</details></td>
+    <td style="border: none; padding: 8px;">  <details>
   <summary>Click to view the ID Card</summary>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/sefremoff/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/SerineGit/Demo-Menu/refs/heads/main/Sergey%20E_ID.png" alt="ID Card" width="200" />
+      <img src="https://raw.githubusercontent.com/SerineGit/Demo-Menu/refs/heads/main/Sergey%20E_ID.png" alt="ID Card" width="300" />
     </a>
   </p>
 
-</details>
+</details></td>
+  </tr>
+</table>
+
 </div>
 
 
