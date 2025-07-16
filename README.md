@@ -56,8 +56,7 @@ Discover our interactive project architecture through this link:
     <td colspan="2" style="border: 1px solid #ddd; padding: 8px; text-align: center;">
       Первая строка, 2 клетки (объединённые)
     </td>
-    <td style="border: 1px solid #ddd;"></td>  <!-- пустая ячейка, чтобы 4 колонки в строке -->
-    <td style="border: 1px solid #ddd;"></td>  <!-- пустая ячейка -->
+     <td colspan="2" style="border: 1px solid #ddd; padding: 8px; text-align: center;">
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Вторая строка, ячейка 1</td>
