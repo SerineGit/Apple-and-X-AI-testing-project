@@ -52,7 +52,8 @@ Discover our interactive project architecture through this link:
 
 <table>
   <tr>
-    <td colspan="2">Первая строка, 2 клетки</td>
+     <td>Вторая строка, ячейка 1</td>
+    <td>Вторая строка, ячейка 2</td>
   </tr>
   <tr>
     <td>Вторая строка, ячейка 1</td>
