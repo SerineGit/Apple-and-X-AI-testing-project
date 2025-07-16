@@ -54,7 +54,17 @@ Discover our interactive project architecture through this link:
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td colspan="2" style="border: 1px solid #ddd; padding: 8px; text-align: center;">
-      Первая строка, 2 клетки (объединённые)
+      <details>
+  <summary>Click to view the ID Card</summary>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sefremoff/" target="_blank" rel="noopener noreferrer">
+      <img src="https://raw.githubusercontent.com/SerineGit/Demo-Menu/refs/heads/main/Sergey%20E_ID.png" alt="ID Card" width="400" />
+    </a>
+  </p>
+
+</details>
+
     </td>
      <td colspan="2" style="border: 1px solid #ddd; padding: 8px; text-align: center;">
   </tr>
