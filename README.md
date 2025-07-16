@@ -51,9 +51,6 @@ Discover our interactive project architecture through this link:
 ## 👥 Team
 
 <div align="center">
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td colspan="2" style="border: 1px solid #ddd; padding: 8px; text-align: center;">
       <details>
   <summary>Click to view the ID Card</summary>
 
@@ -63,11 +60,7 @@ Discover our interactive project architecture through this link:
     </a>
   </p>
 
-</details>
-
-    </td>
-     <td colspan="2" style="border: 1px solid #ddd; padding: 8px; text-align: center;">
-      <details>
+</details>         <details>
   <summary>Click to view the ID Card</summary>
 
   <p align="center">
@@ -77,21 +70,6 @@ Discover our interactive project architecture through this link:
   </p>
 
 </details>
-     </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Вторая строка, ячейка 1</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Вторая строка, ячейка 2</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Вторая строка, ячейка 3</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Вторая строка, ячейка 4</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Третья строка, ячейка 1</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Третья строка, ячейка 2</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Третья строка, ячейка 3</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Третья строка, ячейка 4</td>
-  </tr>
-</table> 
 </div>
 
 
