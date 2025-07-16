@@ -59,7 +59,7 @@ Discover our interactive project architecture through this link:
 
   <p align="center">
     <a href="https://www.linkedin.com/in/sefremoff/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/SerineGit/Demo-Menu/refs/heads/main/Sergey%20E_ID.png" alt="ID Card" width="400" />
+      <img src="https://raw.githubusercontent.com/SerineGit/Demo-Menu/refs/heads/main/Sergey%20E_ID.png" alt="ID Card" width="200" />
     </a>
   </p>
 
@@ -67,6 +67,17 @@ Discover our interactive project architecture through this link:
 
     </td>
      <td colspan="2" style="border: 1px solid #ddd; padding: 8px; text-align: center;">
+      <details>
+  <summary>Click to view the ID Card</summary>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sefremoff/" target="_blank" rel="noopener noreferrer">
+      <img src="https://raw.githubusercontent.com/SerineGit/Demo-Menu/refs/heads/main/Sergey%20E_ID.png" alt="ID Card" width="200" />
+    </a>
+  </p>
+
+</details>
+     </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">Вторая строка, ячейка 1</td>
