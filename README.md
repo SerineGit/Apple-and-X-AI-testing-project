@@ -1,3 +1,5 @@
+🅷🅴🅻🅻🅾 🆂🅴🆁🅶🅴🆈!
+
 <div align="center">
 
 # 🍎 Apple & X.AI Testing Project
